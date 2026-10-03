@@ -1,0 +1,6 @@
+{
+  "name": "dev-jr",
+  "version": "1.0.0",
+  "description": "Agente Dev Jr do PC1. Construtor disciplinado focado em implementar codigo funcional, testado, com resumo por arquivo e branch isolada.",
+  "contextFileName": "AGENTS.md"
+}
